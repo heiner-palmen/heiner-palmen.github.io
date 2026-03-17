@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "CloneSmith — Synced Multiplayer for Music Games"
 date: 2026-03-17 12:30:00 +0100
 categories: project software-development automation

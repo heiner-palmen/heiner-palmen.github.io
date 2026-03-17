@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "FrameBridge — Real-time Pixel Analysis for OBS"
 date: 2026-03-17 12:00:00 +0100
 categories: project obs lua automation
