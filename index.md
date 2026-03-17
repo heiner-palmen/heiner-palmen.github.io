@@ -1,16 +1,12 @@
 ---
-layout: home
+layout: default
 title: Heiner Palmen
 ---
-
 # Welcome to My Blog
 
 Software development, AI, automation, and interesting projects built over 20+ years.
 
----
-
 ## Latest Posts
-
 <ul>
   {% for post in site.posts %}
     <li>
