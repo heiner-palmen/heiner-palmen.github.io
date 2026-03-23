@@ -14,3 +14,7 @@ Software development, AI, automation, and interesting projects built over 20+ ye
     </li>
   {% endfor %}
 </ul>
+
+[Heiner Palmen YouTube Uploader](/privacy.html) — Personal YouTube upload automation tool.
+
+[Privacy Policy](/privacy.html)
