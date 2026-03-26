@@ -151,7 +151,7 @@ FrameBridge hooks directly into OBS's internal render loop. **No external window
 
 FrameBridge is open source (MIT), and installs like any other OBS plugin — copy the DLL and the data folder, restart OBS, load a Lua script.
 
-[**→ Download v1.0**](https://github.com/heiner-palmen/obs-framebridge/releases/tag/v1.0){: style="display:inline-block; padding:0.5rem 1.25rem; background:#e05a00; color:#fff; border-radius:4px; text-decoration:none; font-weight:bold; margin-right:0.5rem;"}
+[**→ Download latest**](https://github.com/heiner-palmen/obs-framebridge/releases/latest){: style="display:inline-block; padding:0.5rem 1.25rem; background:#e05a00; color:#fff; border-radius:4px; text-decoration:none; font-weight:bold; margin-right:0.5rem;"}
 [View on GitHub](https://github.com/heiner-palmen/obs-framebridge){: style="display:inline-block; padding:0.5rem 1.25rem; border:1px solid #555; color:#ccc; border-radius:4px; text-decoration:none;"}
 
 ---
