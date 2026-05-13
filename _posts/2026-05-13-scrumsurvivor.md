@@ -10,6 +10,8 @@ description: "ScrumSurvivor is an open source Windows app that replaces your web
 
 *ScrumSurvivor — a real-time Wav2Lip lip-sync avatar for mandatory camera meetings.*
 
+![ScrumSurvivor](https://raw.githubusercontent.com/heiner-palmen/ScrumSurvivor/main/assets/scrumsurvivor.png)
+
 ---
 
 A few months ago a friend called me, frustrated. His company had just introduced a cameras-on policy for all internal meetings. The justification was engagement. The actual effect, as he described it, was 45 minutes a day of staring at a grid of tired faces in bad lighting while somebody narrated a PowerPoint everyone had already received by email.
