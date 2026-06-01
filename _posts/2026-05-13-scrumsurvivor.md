@@ -10,6 +10,8 @@ description: "ScrumSurvivor is an open source Windows app that replaces your web
 
 *ScrumSurvivor — a real-time Wav2Lip lip-sync avatar for mandatory camera meetings.*
 
+![ScrumSurvivor demo](https://raw.githubusercontent.com/heiner-palmen/ScrumSurvivor/main/assets/demo.gif)
+
 ![ScrumSurvivor](https://raw.githubusercontent.com/heiner-palmen/ScrumSurvivor/main/assets/scrumsurvivor.png)
 
 ---
