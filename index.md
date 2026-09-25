@@ -17,4 +17,6 @@ Software development, AI, automation, and interesting projects built over 20+ ye
 
 [Heiner Palmen YouTube Uploader](/privacy.html) — Personal YouTube upload automation tool.
 
+[FailFloozie Shorts Publisher](/tiktok-privacy.html) — Personal TikTok draft upload tool ([Terms](/tiktok-terms.html) · [Privacy](/tiktok-privacy.html)).
+
 [Privacy Policy](/privacy.html)
